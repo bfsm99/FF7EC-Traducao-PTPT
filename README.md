@@ -1,0 +1,1 @@
+# FF7EC-Traducao-PTPT
