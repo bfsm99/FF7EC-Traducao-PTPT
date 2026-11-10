@@ -2,7 +2,9 @@
 
 Tradução para **Português de Portugal** da versão offline **ETERNAL V1.2** de FINAL FANTASY VII EVER CRISIS.
 
-**[⬇️ Transferir a versão mais recente](../../releases/latest)**
+**[⬇️ Transferir a versão mais recente](../../releases)**
+
+> 🧪 **Versão beta.** A tradução está completa, mas ainda está a ser revista jogando o jogo do princípio ao fim. Podem aparecer textos cortados, gralhas ou frases a melhorar. [Reporta o que encontrares](../../issues)!
 
 ## O que está traduzido
 
@@ -19,7 +21,7 @@ Ficam em inglês, de propósito, para manter a terminologia oficial da série:
 ## Instalar
 
 1. Abre o jogo pelo menos uma vez (para criar a pasta `save`) e fecha-o.
-2. Transfere o ZIP da [página de versões](../../releases/latest).
+2. Transfere o ZIP da [página de versões](../../releases).
 3. Extrai o ZIP **para dentro da pasta do jogo** (a pasta que tem o `FF7EC.exe`). Deve ficar assim:
    ```
    FF7EC\
@@ -70,3 +72,4 @@ Encontraste um texto cortado, um erro de tradução ou algo que ficou em inglês
 
 Projeto de fãs, gratuito e sem fins lucrativos, sem qualquer ligação à Square Enix.
 FINAL FANTASY VII EVER CRISIS é marca registada e propriedade da Square Enix Co., Ltd.
+
